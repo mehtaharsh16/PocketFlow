@@ -6,3 +6,4 @@ sklearn>=0.19.1
 pandas>=0.22.0
 mpi4py>=3.0.0
 tensorflow>=1.10.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
